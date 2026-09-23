@@ -184,6 +184,7 @@ _Author: Lee Ting Ting_
     - `-l`: limit the search result to this number
     - `-b`: data source (google, bing, linkedin, twitter, yahoo, etc)
     - [GitHub](https://github.com/laramies/theHarvester)
+    - [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
     - Already installed in Kali Linux
 21. **`wget -O 'name_of_file' <download_url>`: Download files with customized names**
     - `wget -r <website_url>`: Download the entire source code of the website
